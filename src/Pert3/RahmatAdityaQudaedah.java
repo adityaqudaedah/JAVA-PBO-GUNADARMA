@@ -1,5 +1,7 @@
 package Pert3;
-
+/*
+*@Author by Rahmat Aditya Qudaedah
+ */
 public class RahmatAdityaQudaedah {
     public static void main(String[] args) {
 
