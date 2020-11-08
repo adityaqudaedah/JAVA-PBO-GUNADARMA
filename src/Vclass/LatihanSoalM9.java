@@ -2,6 +2,10 @@ package Vclass;
 
 import java.util.Scanner;
 
+/**
+ * @author by Rahmat Aditya Qudaedah
+ */
+
 public class LatihanSoalM9 {
 
     static int dummy,count,start, end;

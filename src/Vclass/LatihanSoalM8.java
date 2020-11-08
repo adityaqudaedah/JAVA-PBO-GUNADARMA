@@ -2,6 +2,10 @@ package Vclass;
 
 import java.util.Scanner;
 
+/**
+ * @author by Rahmat Aditya Qudaedah
+ */
+
 public class LatihanSoalM8 {
     //menggunakan static supaya bisa diakses didalam badan class
     static Scanner s = new Scanner(System.in);

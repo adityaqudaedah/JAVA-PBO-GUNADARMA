@@ -1,5 +1,9 @@
 package Vclass;
 
+/**
+ * @author by Rahmat Aditya Qudaedah
+ */
+
 import java.util.Scanner;
 
 public class LatihanSoalM5 {
